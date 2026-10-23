@@ -1,0 +1,16 @@
+{
+  "games": [
+    {
+      "id": "tl",
+      "label": "Throne and Liberty",
+      "configPath": "config.json",
+      "dataDir": "data/tl"
+    },
+    {
+      "id": "wow",
+      "label": "World of Warcraft",
+      "configPath": "games/wow/config.json",
+      "dataDir": "data/wow"
+    }
+  ]
+}
